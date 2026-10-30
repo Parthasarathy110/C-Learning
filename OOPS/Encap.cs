@@ -21,6 +21,10 @@ class Account
     {
         Bank b=new Bank();
         b.Deposit(1000.0);
+        b.Display();
+        b.Deposit(500.01);
+        b.Display();
+        
        
     }
 }

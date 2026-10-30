@@ -1,23 +1,37 @@
-class Animal
+class Employee
 {
-    public void Eat()
+    protected string name;
+    protected int salar;
+    public Employee(string name,int sal)
     {
-        Console.WriteLine("Eating");
+        this.name=name;
+        this.salar=sal;
+    }
+    public void DisplayEmployee()
+    {
+        Console.WriteLine($"Employee Name: {name}");
+        Console.WriteLine($"Salary: {salar}");
     }
 }
-class Dog:Animal
+class Manager:Employee
 {
-    public void Leg()
+ string Dept;
+ public Manager(string name,int sal,string dept):base(name,sal)
     {
-        Console.WriteLine("Dog has four legs");
+        this.Dept=dept;
+    }   
+    public void Displymanager()
+    {
+        DisplayEmployee();
+        Console.WriteLine($"Department: {Dept}");
+
     }
 }
 class Inherit
 {
     static void Main(string[] args)
     {
-        Animal a=new Animal();
-        a.Eat();
-
+        Manager m=new Manager("Partha",20000,"CSE");
+        m.Displymanager();
     }
 }
