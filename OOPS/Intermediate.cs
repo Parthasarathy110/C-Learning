@@ -46,7 +46,7 @@ class Intermediate
         int emp_bonus=bonus??5000;
         Console.WriteLine(emp_bonus);
 
-        double? sal=null;
+        double? sal=null;//
         double salary=sal??15000;
         Console.WriteLine(salary);*/
 
