@@ -59,8 +59,29 @@ class EmployeeList
       }*/
 
       //Converting Array to list
-      int?[] arr={1,2,3,4};
+      /*int?[] arr={1,2,3,4};
       List<int?> employee2=arr.ToList();
-      Console.WriteLine(string.Join(" ",employee2));
+      Console.WriteLine(string.Join(" ",employee2));*/
+
+      //Getting Inputs
+      /*List<int?> list=new List<int?>();
+      for(int i = 0; i < 5; i++)
+        {
+            int? num=int.Parse(Console.ReadLine()!);
+            list.Add(num);
+        }
+        Console.WriteLine(string.Join(" ",list));*/
+
+        List<int?> number=new List<int?>(){10,25,30,45,50,66};
+        var even=number.FindAll(n=>n%2==0);
+        Console.WriteLine($"Even Numbers: {string.Join(" ",even)}");
+        var greater=number.FindAll(n=>n>=30);
+        Console.WriteLine($"Greater elements: {string.Join(" ",greater)}");
+        bool result=number.Exists(n=>n>40);
+        Console.WriteLine($"Greater element found: {result}");
+        int? oneele=number.Find(n=>n>30&&n%5==0);
+        Console.WriteLine($"Greater than 30 and divisible by 5: {oneele}");
+
+
     }
 }
