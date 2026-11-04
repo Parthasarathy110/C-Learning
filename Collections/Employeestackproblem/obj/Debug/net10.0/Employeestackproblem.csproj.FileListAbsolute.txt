@@ -1,0 +1,15 @@
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\bin\Debug\net10.0\Employeestackproblem.exe
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\bin\Debug\net10.0\Employeestackproblem.deps.json
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\bin\Debug\net10.0\Employeestackproblem.runtimeconfig.json
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\bin\Debug\net10.0\Employeestackproblem.dll
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\bin\Debug\net10.0\Employeestackproblem.pdb
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\Employeestackproblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\Employeestackproblem.AssemblyInfoInputs.cache
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\Employeestackproblem.AssemblyInfo.cs
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\Employeestackproblem.csproj.CoreCompileInputs.cache
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\Employeestackproblem.sourcelink.json
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\Employeestackproblem.dll
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\refint\Employeestackproblem.dll
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\Employeestackproblem.pdb
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\Employeestackproblem.genruntimeconfig.cache
+C:\Users\psara\OneDrive\Documents\C#Leanring\C-Learning\Collections\Employeestackproblem\obj\Debug\net10.0\ref\Employeestackproblem.dll
